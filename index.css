@@ -47,7 +47,8 @@ main {
 
 .produto {
     float: left;
-    width: 30%;
+    width: 50%;
+    height:50%;
     margin: 1%;
     padding: 20px;
     border: 0px solid #ccc;
