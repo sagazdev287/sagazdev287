@@ -47,16 +47,16 @@ main {
 
 .produto {
     float: left;
-    width: 95%;
-    height: 50%;
+    width: 30%;
+    height: 3%;
     margin: 0%;
-    padding: 30px;
+    padding: 9px;
     border: 0px solid #ccc;
     text-align: center;
 }
 
 .produto img {
-    width: 95%;
+    width: 110%;
     height: auto;
 }
 
